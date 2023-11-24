@@ -4,7 +4,8 @@
     "name":"Uma",
     "lastname":"Sahni",
     "password":"uma123",
-    "email":"uma@gmail.com"
+    "email":"uma@gmail.com",
+      "id":1
     }
   ],
   "products": [
