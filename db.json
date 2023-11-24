@@ -1,9 +1,11 @@
 {
   "user":[
+    {
     "name":"Uma",
     "lastname":"Sahni",
     "password":"uma123",
     "email":"uma@gmail.com"
+    }
   ],
   "products": [
             {
